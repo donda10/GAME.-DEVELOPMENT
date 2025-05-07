@@ -81,4 +81,4 @@ xend=xb;
 
 
 **Result :**
-
+Thus the Bresenham’s algorithm for line using a c coding is implemented successfully.
